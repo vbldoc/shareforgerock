@@ -24,4 +24,4 @@ Note: Also after execute step 3, you could use POSTMAN with the next endpoint ht
 - com.forgerock.core.devicefeatures.controllers   **(Main rest controller where the post method is created)**
 - com.forgerock.core.devicefeatures.domain **(Device and Featuring device model clasess)**
 - com.forgerock.core.devicefeatures.service    **(Interface service and service implementation)**
-- HELP.md  **(This file)**
+- README.md  **(This file)**
